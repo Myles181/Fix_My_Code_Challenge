@@ -21,10 +21,4 @@ for (let i = 0 ; i < size ; i ++) {
         process.stdout.write("#");
     }
     process.stdout.write("\n");
-}"""
-    """Fix_My_Code_Challenge
-DESCRIPTION
-This Repository Contains Debugged Code Files. Basically Debugging The Files Is Aimed In Increasing My Debugging Skills
-
-FILES
-0x00-challenge (directory)
+}
