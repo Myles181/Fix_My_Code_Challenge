@@ -12,6 +12,9 @@ class square():
 
     
     def __init__(self, *args, **kwargs):
+        """
+        Value and key
+        """
         for key, value in kwargs.items():
             setattr(self, key, value)
 
