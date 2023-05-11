@@ -1,7 +1,12 @@
 #!/usr/bin/python3
+# Calculations of area and perimeter of a square
 
 class square():
-    
+    """ Methods for square class
+        Args:
+            width: Width of square
+            height: Height of square
+    """
     width = 0
     height = 0
 
